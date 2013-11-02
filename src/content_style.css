@@ -1,0 +1,22 @@
+#music-pirate , #music-pirate a, #music-pirate img{
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+display: block;
+line-height: 1;
+
+}
+#music-pirate {
+position: fixed;
+bottom: 0;
+width: 46px;
+z-index: 2147483647;
+}
+#music-pirate  a{
+display: inline-block;
+height: 32px;
+cursor:pointer;
+}
